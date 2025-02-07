@@ -81,7 +81,7 @@ sqrt(A + B):
 Tensorlib is a header-only library. Just include tensorlib.hpp in your project.
 
 ```bash
-git clone https://github.com/tensorlib/tensorlib.git
+git clone https://github.com/Ivooooooooo/tensorlib/tensorlib.git
 cd tensorlib
 ```
 
