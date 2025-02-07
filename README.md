@@ -90,7 +90,6 @@ cd tensorlib
 ## Requirements
 
 - C++20-compatible compiler (GCC 10+, Clang 10+, MSVC 2019+)
-- CMake (optional, for tests and examples)
 
 ---
 
